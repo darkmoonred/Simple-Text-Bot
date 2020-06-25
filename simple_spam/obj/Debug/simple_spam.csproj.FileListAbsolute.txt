@@ -1,0 +1,10 @@
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\bin\Debug\simple_spam.exe.config
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\bin\Debug\simple_spam.exe
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\bin\Debug\simple_spam.pdb
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.csprojAssemblyReference.cache
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.Form1.resources
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.Properties.Resources.resources
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.csproj.GenerateResource.cache
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.csproj.CoreCompileInputs.cache
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.exe
+C:\Users\Gregory\source\repos\simple_spam\simple_spam\obj\Debug\simple_spam.pdb
